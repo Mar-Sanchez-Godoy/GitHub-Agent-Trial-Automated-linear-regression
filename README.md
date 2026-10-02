@@ -3,7 +3,7 @@
 ### 📊 Linear Regression – Time Series Predictor
 A complete linear regression system to automatically organize, clean, and predict time series data.
 
-###✨ Features
+### Features
 ✅ Automatic organization of date–value datasets
 ✅ Smart data cleaning (null values, duplicates)
 ✅ Trained and evaluated linear regression model
@@ -11,7 +11,7 @@ A complete linear regression system to automatically organize, clean, and predic
 ✅ Result queries in JSON format
 ✅ Visualization of historical data and predictions
 
-###📦 Requirements
+### Requirements
 
 - Python 3.8+
 - pandas
@@ -19,7 +19,7 @@ A complete linear regression system to automatically organize, clean, and predic
 - scikit-learn
 - matplotlib
 
-### 🚀 Instalation
+### Instalation
 
 ```bash
 # Clone the repository 
